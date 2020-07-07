@@ -1,0 +1,1 @@
+Focus camera using focusing ring on camera head (just proximal to coupler)

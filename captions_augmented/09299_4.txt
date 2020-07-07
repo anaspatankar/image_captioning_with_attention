@@ -1,0 +1,1 @@
+Scroll backwards to find the maximum IVC diameter. Again, measure & record the IVC diameter at the same location

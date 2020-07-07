@@ -1,0 +1,1 @@
+Evaluate range of motion with extension, inspecting for symmetry posture & contour. Note: support patient to prevent falls!

@@ -1,0 +1,1 @@
+Open sponge packet. Packets may include CHG, iodine, or no cleansing agent

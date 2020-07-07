@@ -1,0 +1,1 @@
+Once pacemaker is confirmed to be deactivated, cut wires to detach device from body wall

@@ -1,0 +1,1 @@
+Use Allis clamps to manipulate severed ends of EAS so they overlap. Another method of reapproximation is called an end-to-end type of repair (not shown here)

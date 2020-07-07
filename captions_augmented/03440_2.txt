@@ -1,0 +1,1 @@
+Test gait: Ask patient to walk length of room. Observe balance, width of gait, rate of walking

@@ -1,0 +1,1 @@
+Anesthesia provider communicates to anesthesia team the need to convert to open surgery & calls blood bank to initiate mass transfusion protocol if necessary

@@ -1,0 +1,1 @@
+Isolate left marginal branch that supplies left heart border (left ventricle)

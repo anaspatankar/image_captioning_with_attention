@@ -1,0 +1,1 @@
+Keep thumb on slider to prevent it from sliding back (see yellow arrow)

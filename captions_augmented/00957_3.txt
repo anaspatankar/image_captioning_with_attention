@@ -1,0 +1,1 @@
+Count time until pink again (abnormal if > 5 sec)

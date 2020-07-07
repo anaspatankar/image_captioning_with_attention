@@ -1,0 +1,1 @@
+Clean the site in a circular motion starting in the center & moving outward

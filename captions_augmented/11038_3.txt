@@ -1,0 +1,1 @@
+Move probe slowly until fetal heart rate audibly detected

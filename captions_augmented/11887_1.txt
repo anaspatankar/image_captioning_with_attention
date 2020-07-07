@@ -1,0 +1,1 @@
+Keep camera head orientation fixed while rotating light cord

@@ -1,0 +1,1 @@
+Reflect joint capsule to observe internal structure of joint. Note: TMJ separated into superior & inferior compartments by an intervening cartilage

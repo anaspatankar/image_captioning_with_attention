@@ -1,0 +1,1 @@
+Use probe to isolate inferior margin of lateral pterygoid m.

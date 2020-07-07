@@ -1,0 +1,1 @@
+Ensure arms are parallel to inserter handle (see yellow arrow)

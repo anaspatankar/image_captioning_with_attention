@@ -1,0 +1,1 @@
+Remove leads of pacemaker, if present

@@ -1,0 +1,1 @@
+Check carotid pulse. If absent, start CPR

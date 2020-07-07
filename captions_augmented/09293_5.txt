@@ -1,0 +1,1 @@
+Fan probe back to IVC. Manipulate the probe in one plane at a time to ensure that the probe is midline & in axis with the IVC

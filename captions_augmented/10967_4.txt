@@ -1,0 +1,1 @@
+Trim black sponge so sponge edges are well approximated with edge of the wound

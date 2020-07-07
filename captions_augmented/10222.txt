@@ -1,0 +1,1 @@
+Remove any redundancies or folds in the mesh

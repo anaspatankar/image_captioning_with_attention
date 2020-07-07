@@ -1,0 +1,1 @@
+Move slider down to mark on handle to release IUD. Wait 10 second for IUD arms to open

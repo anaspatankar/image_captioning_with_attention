@@ -1,0 +1,1 @@
+'White balance OK' message should appear

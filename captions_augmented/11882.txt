@@ -1,0 +1,1 @@
+Manipulate light cord to rotate scope & change field of view

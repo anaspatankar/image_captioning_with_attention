@@ -1,0 +1,1 @@
+Perform leak test on wound vac console. If successful wound vac seal is achieved, a green bar will be present on the monitor screen

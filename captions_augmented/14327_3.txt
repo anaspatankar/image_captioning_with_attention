@@ -1,0 +1,1 @@
+If bone is encountered, draw needle back to subcutaneous level and redirect

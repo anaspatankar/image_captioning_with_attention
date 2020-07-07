@@ -1,0 +1,1 @@
+Reapproximate skin edges with simple suture. Tie 3+ knots

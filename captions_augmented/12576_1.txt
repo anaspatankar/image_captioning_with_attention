@@ -1,0 +1,1 @@
+Load needle driver with 4.0 monocryl undyed suture (dyed suture used for demonstration)

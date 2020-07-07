@@ -1,0 +1,1 @@
+Also tack medial aspect of mesh to improve mesh approximation to abdominal wall - take care not to place tacks directly under hernia defect itself

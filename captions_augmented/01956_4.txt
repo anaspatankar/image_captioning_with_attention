@@ -1,0 +1,1 @@
+Perform nose exam - have patient tilt head back

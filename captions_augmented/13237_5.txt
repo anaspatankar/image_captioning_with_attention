@@ -1,0 +1,1 @@
+Attending surgeon communicates to the bedside assistant the order in which robotic instruments can be safely removed

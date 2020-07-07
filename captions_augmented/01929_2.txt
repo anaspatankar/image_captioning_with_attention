@@ -1,0 +1,1 @@
+Review all structures visible in clear field of view.

@@ -1,0 +1,1 @@
+Trim loose ends of string

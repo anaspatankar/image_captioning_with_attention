@@ -1,0 +1,1 @@
+Wait for the oxygen saturation and pulse rate readings to be generated

@@ -1,0 +1,1 @@
+Ensure heart rate is fetal, not maternal. Apply pulse oximeter if unclear

@@ -1,0 +1,1 @@
+Passively internally rotate the shoulder.

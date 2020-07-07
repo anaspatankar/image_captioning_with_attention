@@ -1,0 +1,1 @@
+Connect cuff to machine reader. If digital machine is unavailable, use traditional method with stethoscope

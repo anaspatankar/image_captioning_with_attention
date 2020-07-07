@@ -1,0 +1,1 @@
+Remove cap of central port so wire can pass through

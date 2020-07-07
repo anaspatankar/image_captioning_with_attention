@@ -1,0 +1,1 @@
+Perform nose exam using the otoscope with the speculum

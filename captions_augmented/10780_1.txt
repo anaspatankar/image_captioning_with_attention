@@ -1,0 +1,1 @@
+Load IUS into inserter by pulling strings straight back (see yellow arrow) while maintaining forward pressure on blue slider.
